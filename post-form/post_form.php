@@ -26,7 +26,7 @@ function formCount($num) {
         echo $num . " sayısı 3 sayısına tam bölünebilir. Sonuç: " . $a . " sayısıdr.";
     } else {
         echo $num . " sayısı 3 e tam bölünmez, ";
-        $b = 0;
+        $b = $num;
         while ($b % 3 == 0) {
             $b ++;
         }
