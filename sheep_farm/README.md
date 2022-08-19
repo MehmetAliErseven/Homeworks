@@ -1,0 +1,2 @@
+# PHP-works
+2 adet yün toplama makinası olan bir koyun çiftliğimiz var. Koyunlar genç veya yaşlı ve siyah veya beyaz olmak üzere ayrılıyorlar. Bu değerler koyuna rasgele atanıyor. Eğer koyun genç ise yünü toplanmıyor ve uyarı veriyor. Eğer koyun yaşlı ise rengine göre yünleri toplanıyor ve kaç adet olduğu sayılıyor.
